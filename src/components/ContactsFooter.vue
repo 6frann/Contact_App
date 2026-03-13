@@ -5,4 +5,5 @@
         <p>&copy; 2024 Contact Manager. All rights reserved.</p>
       </div>
     </footer>
+
 </template>
